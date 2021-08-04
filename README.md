@@ -1,4 +1,6 @@
-### Hi there 👋
+### Currently working on further developing my portfolio
+
+This site is intended to eventually be an online equivalent to my resume. It is currently a work in progress and does not represent the average quality of my final work.
 
 <!--
 **MattNeufeld/MattNeufeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
